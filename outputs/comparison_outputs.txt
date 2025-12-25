@@ -1,0 +1,64 @@
+BASE MODEL OUTPUTS
+
+Prompt: How can I reset my student portal password?
+Response: Use a syncing app to reset your student portal password.
+------------------------------------------------------------
+Prompt: Where can I find the exam timetable?
+Response: a tv
+------------------------------------------------------------
+Prompt: How do I apply for hostel accommodation?
+Response: Apply for hostel accommodation in the city of Hostel.
+------------------------------------------------------------
+Prompt: Who should I contact for LMS technical issues?
+Response: Isaas
+------------------------------------------------------------
+Prompt: How can I request an academic transcript?
+Response: Request a transcript of an academic report.
+------------------------------------------------------------
+Prompt: What should I do if I miss an exam?
+Response: If I miss an exam, I should go to the doctor's office.
+------------------------------------------------------------
+Prompt: How do I access campus Wi-Fi?
+Response: Open the campus's Wi-Fi app and click on the "Find campus" button.
+------------------------------------------------------------
+Prompt: How can I contact the university IT helpdesk?
+Response: Contact the university IT helpdesk at e-mail@email.com
+------------------------------------------------------------
+Prompt: How do I apply for a leave of absence?
+Response: Apply for a leave of absence.
+------------------------------------------------------------
+Prompt: Where can I find the academic calendar?
+Response: a syllable
+
+
+FINE-TUNED MODEL OUTPUTS (from in-memory trainer.model)
+
+Prompt: How can I reset my student portal password?
+Response: Reset passwords are available through the student portal website.
+------------------------------------------------------------
+Prompt: Where can I find the exam timetable?
+Response: Exam timetables are available on the official website.
+------------------------------------------------------------
+Prompt: How do I apply for hostel accommodation?
+Response: Hostel accommodation applications are submitted through the hostel office.
+------------------------------------------------------------
+Prompt: Who should I contact for LMS technical issues?
+Response: LMS technical issues should be addressed to the technical support team.
+------------------------------------------------------------
+Prompt: How can I request an academic transcript?
+Response: Academic transcript requests are submitted through the academic office.
+------------------------------------------------------------
+Prompt: What should I do if I miss an exam?
+Response: If you miss an exam, you should contact your doctor or academic office.
+------------------------------------------------------------
+Prompt: How do I access campus Wi-Fi?
+Response: Wi-Fi access is available through the campus Wi-Fi network.
+------------------------------------------------------------
+Prompt: How can I contact the university IT helpdesk?
+Response: Contact information is available on the university IT helpdesk website.
+------------------------------------------------------------
+Prompt: How do I apply for a leave of absence?
+Response: Leave of absence applications are submitted through the office.
+------------------------------------------------------------
+Prompt: Where can I find the academic calendar?
+Response: Academic calendars are available through the academic website.

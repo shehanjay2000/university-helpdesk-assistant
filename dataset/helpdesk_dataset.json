@@ -1,0 +1,2002 @@
+[
+  {
+    "instruction": "How can I apply for undergraduate admission?",
+    "response": "You can apply for undergraduate admission by completing the online application form available on the university’s official website and submitting the required documents before the deadline."
+  },
+  {
+    "instruction": "What documents are required for admission?",
+    "response": "Required documents typically include academic transcripts, a copy of your national ID or passport, passport-sized photographs, and relevant certificates depending on the program."
+  },
+  {
+    "instruction": "When does the academic year usually start?",
+    "response": "The academic year usually begins in the first quarter of the year. Exact dates are published in the academic calendar on the university website."
+  },
+  {
+    "instruction": "How do I check my application status?",
+    "response": "You can check your application status by logging into the admissions portal using the credentials you received after submitting your application."
+  },
+  {
+    "instruction": "Is there an application fee for new students?",
+    "response": "Yes, most programs require a non-refundable application fee. Details regarding the amount and payment method are provided in the admissions guidelines."
+  },
+  {
+    "instruction": "What degree programs are offered by the university?",
+    "response": "The university offers undergraduate and postgraduate programs across faculties such as IT, Business, Engineering, and Humanities. A complete list is available on the official website."
+  },
+  {
+    "instruction": "How long is an undergraduate degree program?",
+    "response": "Most undergraduate degree programs take three to four years to complete, depending on the program structure."
+  },
+  {
+    "instruction": "Are classes conducted online or on campus?",
+    "response": "Classes may be conducted on campus, online, or in a hybrid format depending on the program and academic requirements."
+  },
+  {
+    "instruction": "Where can I find the exam timetable?",
+    "response": "Exam timetables are published on the university website and shared through official student communication channels prior to examinations."
+  },
+  {
+    "instruction": "What should I do if I miss an examination?",
+    "response": "If you miss an examination due to a valid reason, you should immediately inform your faculty office and follow the university’s examination policies."
+  },
+  {
+    "instruction": "How can I pay my tuition fees?",
+    "response": "Tuition fees can be paid through bank transfers, online payment systems, or designated bank branches as instructed by the finance office."
+  },
+  {
+    "instruction": "Is it possible to pay tuition fees in installments?",
+    "response": "Some programs allow installment payments. You should contact the finance office to confirm eligibility and payment schedules."
+  },
+  {
+    "instruction": "How do I access the student portal?",
+    "response": "You can access the student portal using the login credentials provided after enrollment. The portal link is available on the university website."
+  },
+  {
+    "instruction": "What services are available at the university library?",
+    "response": "The library provides access to textbooks, research journals, digital resources, study spaces, and borrowing services for registered students."
+  },
+  {
+    "instruction": "Can I access library resources online?",
+    "response": "Yes, the university library offers online access to e-books, journals, and databases through its digital library platform."
+  },
+  {
+    "instruction": "How can I contact the academic office?",
+    "response": "You can contact the academic office via email, phone, or by visiting during official working hours. Contact details are available on the website."
+  },
+  {
+    "instruction": "What is the process for course registration?",
+    "response": "Course registration is completed through the student portal during the registration period announced by the university."
+  },
+  {
+    "instruction": "Can I change my registered courses after enrollment?",
+    "response": "Course changes may be allowed during the add or drop period, subject to university policies and approvals."
+  },
+  {
+    "instruction": "How do I apply for hostel accommodation?",
+    "response": "Hostel applications can be submitted through the student affairs office or the designated online application system, subject to availability."
+  },
+  {
+    "instruction": "Are scholarships available for students?",
+    "response": "Yes, the university offers scholarships based on academic merit and financial need. Details are published on the official website."
+  },
+  {
+    "instruction": "Where can I find the academic calendar?",
+    "response": "The academic calendar is available on the university website and includes important dates such as semester starts, holidays, and exams."
+  },
+  {
+    "instruction": "Who should I contact for technical issues with the student portal?",
+    "response": "For technical issues, you should contact the IT support team via the university helpdesk or support email."
+  },
+  {
+    "instruction": "How do I obtain my student ID card?",
+    "response": "Student ID cards are issued after enrollment. You will receive instructions from the student affairs office regarding collection."
+  },
+  {
+    "instruction": "Can international students apply to the university?",
+    "response": "Yes, international students are eligible to apply. Specific admission requirements are outlined in the international admissions section of the website."
+  },
+  {
+    "instruction": "Where can I read the university rules and regulations?",
+    "response": "University rules and regulations are published on the official website under the policies or governance section."
+  },
+  {
+    "instruction": "What should I do if I forget my student portal password?",
+    "response": "You can reset your password using the “Forgot Password” option on the student portal or contact IT support for assistance."
+  },
+  {
+    "instruction": "Are orientation programs conducted for new students?",
+    "response": "Yes, orientation programs are organized at the beginning of the academic year to help new students understand university procedures and facilities."
+  },
+  {
+    "instruction": "How can I get information about my class schedule?",
+    "response": "Class schedules are available on the student portal and are shared by the respective academic departments."
+  },
+  {
+    "instruction": "Is attendance mandatory for lectures?",
+    "response": "Attendance requirements vary by course. Students are advised to follow the attendance policies specified by their faculty."
+  },
+  {
+    "instruction": "How can I request an academic transcript?",
+    "response": "Academic transcript requests can be submitted through the academic office following the official request procedure."
+  },
+  {
+    "instruction": "What facilities are available on campus?",
+    "response": "Campus facilities include libraries, computer labs, cafeterias, sports facilities, and student common areas."
+  },
+  {
+    "instruction": "Can students access computer labs outside class hours?",
+    "response": "Computer lab access outside class hours depends on availability and university policies. Schedules are announced by the IT department."
+  },
+  {
+    "instruction": "How do I update my personal information in university records?",
+    "response": "Personal information updates can be requested through the student portal or by contacting the academic office."
+  },
+  {
+    "instruction": "Are there student support services available?",
+    "response": "Yes, the university provides academic advising, counseling, and career guidance services for students."
+  },
+  {
+    "instruction": "How can I apply for leave from classes?",
+    "response": "Leave requests should be submitted according to faculty guidelines and supported by valid reasons when required."
+  },
+  {
+    "instruction": "What is the grading system used by the university?",
+    "response": "The university follows a standardized grading system, which is explained in the academic handbook available online."
+  },
+  {
+    "instruction": "How do I check my examination results?",
+    "response": "Examination results are published on the student portal once they are officially released."
+  },
+  {
+    "instruction": "What should I do if there is an error in my results?",
+    "response": "If you notice an error, you should immediately inform your faculty office and follow the official review procedure."
+  },
+  {
+    "instruction": "Are extracurricular activities available for students?",
+    "response": "Yes, students can participate in various clubs, societies, and extracurricular activities organized by the university."
+  },
+  {
+    "instruction": "How can I contact student support services?",
+    "response": "Student support services can be contacted through email, phone, or by visiting the student affairs office during working hours."
+  },
+  {
+    "instruction": "Is there a dress code for students?",
+    "response": "Students are expected to follow the university’s dress code policy, which is outlined in the student handbook."
+  },
+  {
+    "instruction": "How do I apply for an internship through the university?",
+    "response": "Internship application procedures are managed by the career services unit and details are shared with eligible students."
+  },
+  {
+    "instruction": "Can I defer my admission to a later intake?",
+    "response": "Admission deferrals may be considered under specific circumstances. You should contact the admissions office for guidance."
+  },
+  {
+    "instruction": "How do I submit assignments online?",
+    "response": "Online assignment submissions are usually completed through the learning management system used by the university."
+  },
+  {
+    "instruction": "What is the learning management system used by the university?",
+    "response": "The university uses an official learning management system for sharing course materials, announcements, and assignments."
+  },
+  {
+    "instruction": "Are academic advisors assigned to students?",
+    "response": "Yes, academic advisors are assigned to guide students throughout their academic journey."
+  },
+  {
+    "instruction": "How can I book a meeting with my academic advisor?",
+    "response": "Meetings with academic advisors can be scheduled via email or through the appointment system used by the faculty."
+  },
+  {
+    "instruction": "What happens if I fail a course?",
+    "response": "If you fail a course, you may be eligible to repeat it according to the university’s academic regulations."
+  },
+  {
+    "instruction": "How do I withdraw from a course?",
+    "response": "Course withdrawals must be completed within the specified withdrawal period and approved according to university policy."
+  },
+  {
+    "instruction": "Where can I get official announcements from the university?",
+    "response": "Official announcements are shared through the university website, student portal, and authorized communication channels."
+  },
+  {
+    "instruction": "How can I find my lecture timetable?",
+    "response": "Your lecture timetable is available on the student portal and may also be shared by your academic department through official communication channels."
+  },
+  {
+    "instruction": "Are weekend classes conducted by the university?",
+    "response": "Weekend classes may be scheduled for certain programs or modules. Students should refer to their official timetable for confirmation."
+  },
+  {
+    "instruction": "How do I register for exams?",
+    "response": "Exam registration is completed through the student portal during the registration period announced by the university."
+  },
+  {
+    "instruction": "Can I sit for exams if my fees are not fully paid?",
+    "response": "Eligibility to sit for exams depends on the university’s financial policies. Students should consult the finance office for clarification."
+  },
+  {
+    "instruction": "How can I obtain a bonafide letter?",
+    "response": "Bonafide letters can be requested through the academic office following the official request procedure."
+  },
+  {
+    "instruction": "What is the procedure to change my contact details?",
+    "response": "You can update your contact details through the student portal or by submitting a request to the academic office."
+  },
+  {
+    "instruction": "Are medical certificates accepted for missed classes?",
+    "response": "Medical certificates may be accepted if they meet university guidelines and are submitted within the specified time frame."
+  },
+  {
+    "instruction": "How can I apply for exam re-scrutiny?",
+    "response": "Exam re-scrutiny requests must be submitted through the academic office according to the examination regulations."
+  },
+  {
+    "instruction": "What should I do if I lose my student ID card?",
+    "response": "Lost student ID cards should be reported to the student affairs office, and a replacement can be requested following the official procedure."
+  },
+  {
+    "instruction": "Is campus parking available for students?",
+    "response": "Campus parking is available for students subject to availability and university parking regulations."
+  },
+  {
+    "instruction": "How do I access campus Wi-Fi?",
+    "response": "Campus Wi-Fi access details are provided to students after enrollment. Assistance is available through IT support if needed."
+  },
+  {
+    "instruction": "Are there counseling services for students?",
+    "response": "Yes, the university offers counseling services to support students’ mental and emotional well-being."
+  },
+  {
+    "instruction": "How can I apply for student insurance?",
+    "response": "Information regarding student insurance schemes is available through the student affairs office."
+  },
+  {
+    "instruction": "What should I do if I face harassment on campus?",
+    "response": "Incidents of harassment should be reported immediately to the designated university authorities or student support services."
+  },
+  {
+    "instruction": "Are sports facilities available for students?",
+    "response": "Yes, the university provides sports and recreational facilities that students can access according to facility schedules."
+  },
+  {
+    "instruction": "How can I join student clubs or societies?",
+    "response": "Information about student clubs and societies is shared during orientation and through student affairs announcements."
+  },
+  {
+    "instruction": "Is there a student code of conduct?",
+    "response": "Yes, students are required to follow the university’s code of conduct, which is outlined in the student handbook."
+  },
+  {
+    "instruction": "Can I access past exam papers?",
+    "response": "Past exam papers may be available through the library or academic departments, subject to availability."
+  },
+  {
+    "instruction": "How do I request a course syllabus?",
+    "response": "Course syllabi are usually available on the learning management system or can be requested from the academic department."
+  },
+  {
+    "instruction": "What happens if I arrive late for an exam?",
+    "response": "Late arrival policies vary by examination. Students should follow the instructions provided by the examination office."
+  },
+  {
+    "instruction": "How can I check my attendance record?",
+    "response": "Attendance records can typically be viewed through the student portal or obtained from the relevant academic department."
+  },
+  {
+    "instruction": "Is there support for students with disabilities?",
+    "response": "Yes, the university provides support services for students with disabilities. Students should contact student support services for assistance."
+  },
+  {
+    "instruction": "How do I request a leave of absence?",
+    "response": "Leave of absence requests must be submitted according to university policies and approved by the relevant authorities."
+  },
+  {
+    "instruction": "Can I transfer from one faculty to another?",
+    "response": "Faculty transfers may be allowed under specific conditions. Students should consult the academic office for guidance."
+  },
+  {
+    "instruction": "Are graduation ceremonies conducted annually?",
+    "response": "Graduation ceremonies are typically conducted annually. Details are announced by the university closer to the event."
+  },
+  {
+    "instruction": "How do I apply for graduation?",
+    "response": "Graduation applications are submitted through the student portal or academic office during the announced application period."
+  },
+  {
+    "instruction": "Can family members attend the graduation ceremony?",
+    "response": "Family attendance policies for graduation ceremonies are announced by the university prior to the event."
+  },
+  {
+    "instruction": "How can I obtain my degree certificate?",
+    "response": "Degree certificates are issued after successful completion of program requirements and official approval by the university."
+  },
+  {
+    "instruction": "What should I do if my certificate has an error?",
+    "response": "Any errors on certificates should be reported to the academic office for correction following official procedures."
+  },
+  {
+    "instruction": "Are transcripts sent directly to employers or institutions?",
+    "response": "Transcript delivery options depend on university policy. Students should contact the academic office for details."
+  },
+  {
+    "instruction": "How can I request a recommendation letter?",
+    "response": "Recommendation letters can be requested from academic staff, subject to their availability and university guidelines."
+  },
+  {
+    "instruction": "Is there a career guidance office at the university?",
+    "response": "Yes, the university has a career guidance office that supports students with career planning and job opportunities."
+  },
+  {
+    "instruction": "How can I participate in career fairs?",
+    "response": "Career fair details are shared by the career services office through official communication channels."
+  },
+  {
+    "instruction": "Are part-time job opportunities available for students?",
+    "response": "Part-time job opportunities may be shared through the career services office or student notice boards."
+  },
+  {
+    "instruction": "Can students work while studying?",
+    "response": "Students may work while studying, subject to academic workload and university regulations."
+  },
+  {
+    "instruction": "How do I submit feedback about a course?",
+    "response": "Course feedback can be submitted through the official feedback systems provided by the university."
+  },
+  {
+    "instruction": "What should I do if I face academic difficulties?",
+    "response": "Students facing academic difficulties are encouraged to contact their academic advisor or student support services."
+  },
+  {
+    "instruction": "How can I appeal an academic decision?",
+    "response": "Academic appeals must be submitted following the university’s appeal procedures within the specified timeframe."
+  },
+  {
+    "instruction": "Is plagiarism taken seriously by the university?",
+    "response": "Yes, plagiarism is treated as a serious academic offense and is subject to disciplinary action."
+  },
+  {
+    "instruction": "How can I learn about plagiarism policies?",
+    "response": "Plagiarism policies are detailed in the academic handbook and on the university website."
+  },
+  {
+    "instruction": "Are online resources available for exam preparation?",
+    "response": "Yes, online learning resources are available through the learning management system and digital library."
+  },
+  {
+    "instruction": "How can I report a technical issue during an online exam?",
+    "response": "Technical issues during online exams should be reported immediately to the IT support team or examination office."
+  },
+  {
+    "instruction": "What happens if there is a system failure during an exam?",
+    "response": "In case of system failures, the examination office will provide instructions according to established procedures."
+  },
+  {
+    "instruction": "Are make-up exams available?",
+    "response": "Make-up exams may be available under specific conditions and must be approved by the examination office."
+  },
+  {
+    "instruction": "How can I access lecture recordings?",
+    "response": "Lecture recordings are typically available through the learning management system if provided by the lecturer."
+  },
+  {
+    "instruction": "Is academic advising mandatory?",
+    "response": "Academic advising requirements vary by program. Students are encouraged to attend advising sessions when offered."
+  },
+  {
+    "instruction": "How do I update my emergency contact information?",
+    "response": "Emergency contact information can be updated through the student portal or by contacting the academic office."
+  },
+  {
+    "instruction": "Can I access university facilities during holidays?",
+    "response": "Access to university facilities during holidays depends on operational schedules announced by the university."
+  },
+  {
+    "instruction": "How can I obtain proof of enrollment?",
+    "response": "Proof of enrollment letters can be requested through the academic office following official procedures."
+  },
+  {
+    "instruction": "Where can I find contact details for university departments?",
+    "response": "Contact details for university departments are listed on the official university website."
+  },
+  {
+    "instruction": "How can I find information about faculty members?",
+    "response": "Information about faculty members, including qualifications and contact details, is available on the university website under the respective faculty pages."
+  },
+  {
+    "instruction": "Are consultation hours available for lecturers?",
+    "response": "Yes, lecturers usually provide consultation hours. These are announced by the respective academic departments."
+  },
+  {
+    "instruction": "How do I book a consultation with a lecturer?",
+    "response": "Consultations can be booked by contacting the lecturer directly via email or following the booking procedure provided by the department."
+  },
+  {
+    "instruction": "Can students access laboratories outside scheduled class times?",
+    "response": "Laboratory access outside class times depends on availability and departmental regulations. Official schedules are announced when applicable."
+  },
+  {
+    "instruction": "What should I do if a lecture is cancelled?",
+    "response": "If a lecture is cancelled, the academic department will notify students through official communication channels."
+  },
+  {
+    "instruction": "Are replacement classes scheduled for cancelled lectures?",
+    "response": "Replacement classes may be scheduled at the discretion of the department, and students will be informed accordingly."
+  },
+  {
+    "instruction": "How can I request permission for late assignment submission?",
+    "response": "Late submission requests must be submitted to the relevant lecturer or department with a valid reason, following university guidelines."
+  },
+  {
+    "instruction": "Is there a penalty for late assignment submission?",
+    "response": "Late submission penalties depend on course policies. Students should refer to the course outline or lecturer instructions."
+  },
+  {
+    "instruction": "How do I check assignment deadlines?",
+    "response": "Assignment deadlines are provided through the learning management system or announced by the course instructor."
+  },
+  {
+    "instruction": "Can group assignments be submitted by one group member?",
+    "response": "Submission guidelines for group assignments are specified by the course instructor and should be followed accordingly."
+  },
+  {
+    "instruction": "How can I access course materials?",
+    "response": "Course materials are shared through the learning management system or provided directly by the lecturer."
+  },
+  {
+    "instruction": "Are recorded lectures mandatory to watch?",
+    "response": "Requirements regarding recorded lectures depend on course policies. Students are advised to follow lecturer instructions."
+  },
+  {
+    "instruction": "What should I do if I cannot attend a scheduled presentation?",
+    "response": "Students should inform the lecturer in advance and follow the procedure outlined for valid absences."
+  },
+  {
+    "instruction": "Can presentation dates be changed?",
+    "response": "Presentation date changes may be allowed under exceptional circumstances with lecturer approval."
+  },
+  {
+    "instruction": "How do I check my continuous assessment marks?",
+    "response": "Continuous assessment marks are typically available through the learning management system or communicated by the lecturer."
+  },
+  {
+    "instruction": "What is the minimum attendance requirement?",
+    "response": "Minimum attendance requirements vary by course and are outlined in faculty regulations or course outlines."
+  },
+  {
+    "instruction": "Are online quizzes part of course assessments?",
+    "response": "Online quizzes may be included as part of continuous assessments depending on the course structure."
+  },
+  {
+    "instruction": "How do I report an issue with assessment grading?",
+    "response": "Assessment grading issues should be reported to the lecturer or academic office following the official review process."
+  },
+  {
+    "instruction": "Can students repeat assessments if they fail?",
+    "response": "Repeating assessments depends on university academic regulations. Students should consult their faculty for guidance."
+  },
+  {
+    "instruction": "What happens if I miss a mandatory assessment?",
+    "response": "Missing mandatory assessments may affect course completion. Students should contact the academic office immediately."
+  },
+  {
+    "instruction": "How can I access the academic handbook?",
+    "response": "The academic handbook is available on the university website and contains important academic policies and procedures."
+  },
+  {
+    "instruction": "Are academic rules the same for all faculties?",
+    "response": "Some academic rules are university-wide, while others may vary by faculty. Faculty-specific guidelines should be reviewed."
+  },
+  {
+    "instruction": "How do I request permission to repeat a course?",
+    "response": "Course repeat requests must be submitted through the academic office in accordance with university regulations."
+  },
+  {
+    "instruction": "Can students take a break during a semester?",
+    "response": "Semester breaks may be allowed under specific conditions. Students should consult the academic office for procedures."
+  },
+  {
+    "instruction": "Are academic warnings issued to students?",
+    "response": "Yes, academic warnings may be issued to students who do not meet minimum academic performance requirements."
+  },
+  {
+    "instruction": "How can I improve my academic performance?",
+    "response": "Students are encouraged to seek guidance from academic advisors, attend support sessions, and utilize learning resources."
+  },
+  {
+    "instruction": "What is academic probation?",
+    "response": "Academic probation is a status assigned to students who do not meet academic standards and is governed by university regulations."
+  },
+  {
+    "instruction": "Can students appeal academic probation decisions?",
+    "response": "Appeals may be submitted according to the university’s academic appeal procedures."
+  },
+  {
+    "instruction": "How do I access student counseling services?",
+    "response": "Counseling services can be accessed by contacting student support services or scheduling an appointment through official channels."
+  },
+  {
+    "instruction": "Are mental health resources available on campus?",
+    "response": "Yes, the university provides mental health resources and counseling support for students."
+  },
+  {
+    "instruction": "How do I report bullying by another student?",
+    "response": "Bullying incidents should be reported to designated university authorities or student support services for appropriate action."
+  },
+  {
+    "instruction": "Are disciplinary actions recorded in student records?",
+    "response": "Disciplinary actions may be recorded in accordance with university policies and regulations."
+  },
+  {
+    "instruction": "Can students access grievance handling procedures?",
+    "response": "Yes, grievance handling procedures are available and outlined on the university website."
+  },
+  {
+    "instruction": "How do I submit a formal complaint?",
+    "response": "Formal complaints can be submitted through the official grievance or complaint handling system of the university."
+  },
+  {
+    "instruction": "Is there a student ombudsman at the university?",
+    "response": "Information regarding student representation or ombudsman services is available through student affairs."
+  },
+  {
+    "instruction": "Are student elections conducted annually?",
+    "response": "Student elections are conducted periodically according to university regulations, with announcements made in advance."
+  },
+  {
+    "instruction": "How can I participate in student leadership activities?",
+    "response": "Students can participate in leadership activities by joining student councils or registered student organizations."
+  },
+  {
+    "instruction": "Are volunteer opportunities available for students?",
+    "response": "Volunteer opportunities are often shared through student affairs or community engagement offices."
+  },
+  {
+    "instruction": "How do I apply for exchange programs?",
+    "response": "Exchange program applications are handled by the international relations office, with details shared through official announcements."
+  },
+  {
+    "instruction": "Are short-term study abroad programs available?",
+    "response": "Short-term study abroad programs may be offered depending on partnerships and program availability."
+  },
+  {
+    "instruction": "How do I check eligibility for exchange programs?",
+    "response": "Eligibility criteria for exchange programs are outlined by the international relations office."
+  },
+  {
+    "instruction": "Can credits be transferred from another institution?",
+    "response": "Credit transfer requests are evaluated based on university policies and require submission of relevant documentation."
+  },
+  {
+    "instruction": "How long does the credit transfer process take?",
+    "response": "The duration of the credit transfer process varies depending on documentation review and approval timelines."
+  },
+  {
+    "instruction": "Are bridging courses available for new students?",
+    "response": "Bridging courses may be offered to help students meet program requirements. Details are shared by academic departments."
+  },
+  {
+    "instruction": "How can I enroll in bridging courses?",
+    "response": "Enrollment procedures for bridging courses are announced by the relevant faculty or academic office."
+  },
+  {
+    "instruction": "Are language support programs available?",
+    "response": "Language support programs may be available to assist students in meeting academic language requirements."
+  },
+  {
+    "instruction": "How do I access online discussion forums?",
+    "response": "Online discussion forums are accessed through the learning management system used for your course."
+  },
+  {
+    "instruction": "Can students request timetable changes?",
+    "response": "Timetable change requests may be considered under specific circumstances and subject to approval."
+  },
+  {
+    "instruction": "How do I check classroom locations?",
+    "response": "Classroom locations are listed in your timetable and may also be displayed on campus notice boards."
+  },
+  {
+    "instruction": "Where can I get help if I feel overwhelmed with studies?",
+    "response": "Students experiencing academic stress are encouraged to contact academic advisors or student counseling services."
+  },
+  {
+    "instruction": "How can I access the university email account?",
+    "response": "University email accounts are provided after enrollment, and login details are shared through official communication channels."
+  },
+  {
+    "instruction": "Is it mandatory to use the university email for communication?",
+    "response": "Yes, students are encouraged to use their university email account for all official academic communication."
+  },
+  {
+    "instruction": "How do I forward emails from my university account?",
+    "response": "Email forwarding options are available in the email settings. Students may contact IT support for assistance."
+  },
+  {
+    "instruction": "What should I do if I do not receive official emails?",
+    "response": "Students should check spam folders and ensure their contact details are updated. IT support can assist if issues persist."
+  },
+  {
+    "instruction": "How can I update my mailing address?",
+    "response": "Mailing address updates can be made through the student portal or by informing the academic office."
+  },
+  {
+    "instruction": "Are notifications sent via SMS or email?",
+    "response": "Official notifications are typically sent via email and may also be shared through SMS or portal announcements."
+  },
+  {
+    "instruction": "How do I enable notifications on the student portal?",
+    "response": "Notification preferences can be adjusted in the student portal settings section."
+  },
+  {
+    "instruction": "Can parents receive academic updates?",
+    "response": "Academic updates are generally shared directly with students. Parental access policies depend on university regulations."
+  },
+  {
+    "instruction": "How do I request access letters for internships?",
+    "response": "Access letters for internships can be requested from the academic or career services office following official procedure"
+  },
+  {
+    "instruction": "Are industrial training programs compulsory?",
+    "response": "Industrial training requirements vary by program and are specified in the curriculum guidelines."
+  },
+  {
+    "instruction": "How do I submit industrial training reports?",
+    "response": "Industrial training reports must be submitted according to guidelines provided by the academic department."
+  },
+  {
+    "instruction": "What should I do if my internship is delayed?",
+    "response": "Internship delays should be reported to the academic supervisor or department for guidance."
+  },
+  {
+    "instruction": "Can I change my internship organization?",
+    "response": "Internship organization changes may be allowed under valid circumstances with prior approval."
+  },
+  {
+    "instruction": "How do I register for final year projects?",
+    "response": "Final year project registration procedures are announced by the academic department during the specified period."
+  },
+  {
+    "instruction": "Are supervisors assigned for final year projects?",
+    "response": "Yes, supervisors are assigned based on project topics and availability."
+  },
+  {
+    "instruction": "How do I submit final year project proposals?",
+    "response": "Project proposals must be submitted following the format and deadlines provided by the academic department."
+  },
+  {
+    "instruction": "Can project topics be changed after approval?",
+    "response": "Topic changes may be considered under valid reasons and require supervisor and departmental approval."
+  },
+  {
+    "instruction": "How often should I meet my project supervisor?",
+    "response": "Meeting frequency is determined by the supervisor, and students are encouraged to maintain regular communication."
+  },
+  {
+    "instruction": "How do I submit my thesis or project report?",
+    "response": "Thesis or project report submission guidelines are provided by the academic department and must be followed strictly."
+  },
+  {
+    "instruction": "Are plagiarism checks done on project reports?",
+    "response": "Yes, project reports are checked for plagiarism in accordance with university academic integrity policies."
+  },
+  {
+    "instruction": "What happens if plagiarism is detected in a project?",
+    "response": "Plagiarism cases are handled according to disciplinary procedures and may result in academic penalties."
+  },
+  {
+    "instruction": "How do I prepare for a project viva or presentation?",
+    "response": "Students should follow guidelines provided by the department and consult their supervisor for preparation advice."
+  },
+  {
+    "instruction": "Can project presentations be conducted online?",
+    "response": "Project presentations may be conducted online or in person depending on departmental arrangements."
+  },
+  {
+    "instruction": "How do I check project evaluation results?",
+    "response": "Project evaluation results are shared through official academic communication channels."
+  },
+  {
+    "instruction": "Are resubmissions allowed for failed projects?",
+    "response": "Resubmission policies depend on academic regulations and should be discussed with the academic department."
+  },
+  {
+    "instruction": "How can I access alumni services?",
+    "response": "Alumni services information is available through the university alumni office or official website."
+  },
+  {
+    "instruction": "Can students network with alumni?",
+    "response": "Networking opportunities with alumni are often facilitated through university-organized events and platforms."
+  },
+  {
+    "instruction": "Are alumni eligible for career support?",
+    "response": "Some career support services may be available to alumni. Details are provided by the career services office."
+  },
+  {
+    "instruction": "How do I update my status after graduation?",
+    "response": "Graduation status updates are handled by the academic office following degree completion."
+  },
+  {
+    "instruction": "Can graduates access the student portal?",
+    "response": "Access to the student portal after graduation depends on university policies."
+  },
+  {
+    "instruction": "How do I obtain duplicate certificates?",
+    "response": "Duplicate certificate requests must be submitted through the academic office with supporting documentation."
+  },
+  {
+    "instruction": "Are name changes allowed on certificates?",
+    "response": "Name changes on certificates are considered under specific conditions and require official documentation."
+  },
+  {
+    "instruction": "How do I verify my academic records?",
+    "response": "Academic record verification requests can be made through the academic office."
+  },
+  {
+    "instruction": "Can third parties verify my qualifications?",
+    "response": "Qualification verification by third parties is conducted through official university verification procedures."
+  },
+  {
+    "instruction": "How long does certificate verification take?",
+    "response": "Verification timelines vary depending on request volume and processing requirements."
+  },
+  {
+    "instruction": "Are digital certificates issued by the university?",
+    "response": "Digital certificate availability depends on university policy and current systems."
+  },
+  {
+    "instruction": "How do I submit documents for verification?",
+    "response": "Documents must be submitted following the guidelines provided by the academic office."
+  },
+  {
+    "instruction": "Can I authorize someone to collect documents on my behalf?",
+    "response": "Authorized collections may be allowed with proper written consent and identification."
+  },
+  {
+    "instruction": "How do I request an academic performance report?",
+    "response": "Academic performance reports can be requested through the academic office following official procedures."
+  },
+  {
+    "instruction": "Are attendance certificates available for students?",
+    "response": "Attendance certificates may be issued upon request, subject to university policies."
+  },
+  {
+    "instruction": "How do I register for short courses offered by the university?",
+    "response": "Short course registrations are handled through the continuing education or professional development unit."
+  },
+  {
+    "instruction": "Are online short courses available?",
+    "response": "Online short courses may be offered depending on program availability and demand."
+  },
+  {
+    "instruction": "Can non-students enroll in short courses?",
+    "response": "Some short courses may be open to non-students. Eligibility details are published by the university."
+  },
+  {
+    "instruction": "How do I receive updates about new courses?",
+    "response": "Updates about new courses are shared through the university website and official communication channels."
+  },
+  {
+    "instruction": "Is prior qualification required for short courses?",
+    "response": "Qualification requirements for short courses vary and are specified in course descriptions."
+  },
+  {
+    "instruction": "How do I withdraw from a short course?",
+    "response": "Short course withdrawals must be submitted according to the terms and conditions of the course provider."
+  },
+  {
+    "instruction": "Are refunds available for withdrawn courses?",
+    "response": "Refund policies depend on course terms and should be reviewed before enrollment."
+  },
+  {
+    "instruction": "How do I submit feedback about university services?",
+    "response": "Feedback can be submitted through official feedback forms or communication channels provided by the university."
+  },
+  {
+    "instruction": "Can students suggest improvements to university services?",
+    "response": "Yes, student suggestions are encouraged and can be submitted through appropriate feedback platforms."
+  },
+  {
+    "instruction": "Where can I find emergency contact information for the campus?",
+    "response": "Emergency contact information is published on the university website and displayed at key locations on campus."
+  },
+  {
+    "instruction": "How do I know if my admission application is complete?",
+    "response": "You can verify whether your application is complete by checking the application checklist in the admissions portal."
+  },
+  {
+    "instruction": "Can I edit my application after submission?",
+    "response": "Application edits may be allowed within a limited time period. You should check the admissions portal or contact the admissions office."
+  },
+  {
+    "instruction": "What happens after my admission application is approved?",
+    "response": "Once approved, you will receive an official offer letter with instructions for enrollment and registration."
+  },
+  {
+    "instruction": "How do I accept my offer letter?",
+    "response": "Offer acceptance instructions are provided in the offer letter and are usually completed through the admissions portal."
+  },
+  {
+    "instruction": "Is there a deadline to accept the offer letter?",
+    "response": "Yes, offer letters must be accepted before the stated deadline to secure your place in the program."
+  },
+  {
+    "instruction": "How do I complete student enrollment?",
+    "response": "Enrollment is completed by submitting required documents, paying applicable fees, and activating your student account."
+  },
+  {
+    "instruction": "Can I postpone my enrollment to the next intake?",
+    "response": "Enrollment postponement may be considered under specific conditions. You should contact the admissions office for guidance."
+  },
+  {
+    "instruction": "When will I receive my enrollment number?",
+    "response": "Your enrollment number is usually issued after successful completion of the enrollment process."
+  },
+  {
+    "instruction": "How do I know my faculty and department?",
+    "response": "Faculty and department details are included in your admission or enrollment confirmation documents."
+  },
+  {
+    "instruction": "Where can I find information about orientation schedules?",
+    "response": "Orientation schedules are published on the university website and communicated to new students via email."
+  },
+  {
+    "instruction": "Is attendance mandatory for orientation programs?",
+    "response": "Orientation attendance is strongly encouraged as it provides essential information about university life and procedures."
+  },
+  {
+    "instruction": "Can orientation sessions be attended online?",
+    "response": "Some orientation sessions may be conducted online depending on university arrangements."
+  },
+  {
+    "instruction": "What documents should I bring for physical registration?",
+    "response": "Required documents are listed in the registration notice and usually include original certificates and identification."
+  },
+  {
+    "instruction": "What happens if I miss the registration date?",
+    "response": "Missing registration dates may affect enrollment. You should immediately contact the admissions office for assistance."
+  },
+  {
+    "instruction": "How do I receive my class timetable after registration?",
+    "response": "Timetables are published through the student portal once registration is completed."
+  },
+  {
+    "instruction": "Are timetables subject to change?",
+    "response": "Yes, timetables may be updated due to academic or logistical reasons. Students should check the portal regularly."
+  },
+  {
+    "instruction": "How do I know which classroom to attend?",
+    "response": "Classroom details are listed in your timetable and may also be displayed on campus notice boards."
+  },
+  {
+    "instruction": "What should I do if two classes overlap?",
+    "response": "Class timetable conflicts should be reported to the academic office for review and guidance."
+  },
+  {
+    "instruction": "Can I attend a different lecture session if I miss mine?",
+    "response": "Attending alternate sessions may be allowed with lecturer permission, depending on availability."
+  },
+  {
+    "instruction": "How do I access lecture notes before class?",
+    "response": "Lecture notes are typically uploaded to the learning management system before or after class."
+  },
+  {
+    "instruction": "Are lecture slides sufficient for exam preparation?",
+    "response": "Lecture slides support learning, but students are encouraged to use additional references and textbooks."
+  },
+  {
+    "instruction": "How do I know which textbooks are required?",
+    "response": "Required and recommended textbooks are listed in the course syllabus or shared by the lecturer."
+  },
+  {
+    "instruction": "Can I borrow textbooks from the library for a semester?",
+    "response": "Borrowing periods vary by material type. Library staff can provide specific borrowing details."
+  },
+  {
+    "instruction": "What should I do if a library book is damaged?",
+    "response": "Damaged books should be reported to library staff immediately to avoid penalties."
+  },
+  {
+    "instruction": "Are fines charged for late library returns?",
+    "response": "Yes, late returns may incur fines according to library regulations."
+  },
+  {
+    "instruction": "How do I reserve a study room in the library?",
+    "response": "Study room reservations can be made through the library’s booking system or at the service desk."
+  },
+  {
+    "instruction": "Can I access the library during weekends?",
+    "response": "Weekend library access depends on operational hours announced by the library."
+  },
+  {
+    "instruction": "How do I report lost personal items on campus?",
+    "response": "Lost items should be reported to campus security or the designated lost and found office."
+  },
+  {
+    "instruction": "Is there campus security available after hours?",
+    "response": "Campus security services operate according to university safety policies, including after-hours coverage."
+  },
+  {
+    "instruction": "How do I request permission to organize a student event?",
+    "response": "Event permission requests must be submitted to student affairs following the official approval process."
+  },
+  {
+    "instruction": "Are there guidelines for organizing student events?",
+    "response": "Yes, event guidelines are provided by student affairs and must be followed by organizers."
+  },
+  {
+    "instruction": "Can external guests attend student events?",
+    "response": "Guest attendance depends on event type and university policies, subject to approval."
+  },
+  {
+    "instruction": "How do I apply for funding for a student activity?",
+    "response": "Funding applications can be submitted to student affairs or the student council, following established procedures."
+  },
+  {
+    "instruction": "Are students allowed to use university branding for events?",
+    "response": "Use of university branding requires prior approval and must comply with branding guidelines."
+  },
+  {
+    "instruction": "How do I access student notices and circulars?",
+    "response": "Notices and circulars are shared via the student portal, email, and official notice boards."
+  },
+  {
+    "instruction": "What should I do if I disagree with a lecturer’s decision?",
+    "response": "Students should first discuss concerns with the lecturer and follow formal appeal procedures if necessary."
+  },
+  {
+    "instruction": "How do I submit a request for academic reconsideration?",
+    "response": "Academic reconsideration requests must be submitted according to the procedures outlined by the academic office."
+  },
+  {
+    "instruction": "Can I access my academic records from previous semesters?",
+    "response": "Yes, academic records from previous semesters are available through the student portal."
+  },
+  {
+    "instruction": "How long are academic records retained by the university?",
+    "response": "Academic records are retained in accordance with university record-keeping policies."
+  },
+  {
+    "instruction": "Are digital copies of transcripts valid for applications?",
+    "response": "Acceptance of digital transcripts depends on the receiving institution’s requirements."
+  },
+  {
+    "instruction": "How do I correct personal details on my transcript?",
+    "response": "Correction requests must be submitted to the academic office with supporting documentation."
+  },
+  {
+    "instruction": "Can I request transcripts before graduation?",
+    "response": "Interim transcripts may be issued before graduation, subject to university policy."
+  },
+  {
+    "instruction": "How do I check outstanding academic requirements?",
+    "response": "Outstanding requirements can be viewed through the student portal or confirmed with the academic office."
+  },
+  {
+    "instruction": "What happens if I do not meet graduation requirements?",
+    "response": "Students who do not meet graduation requirements may need to complete additional coursework or assessments."
+  },
+  {
+    "instruction": "Are graduation requirements the same for all programs?",
+    "response": "Graduation requirements vary by program and are specified in program regulations."
+  },
+  {
+    "instruction": "How do I know if I am eligible to graduate?",
+    "response": "Graduation eligibility is confirmed after academic record review by the academic office."
+  },
+  {
+    "instruction": "When are graduation results officially confirmed?",
+    "response": "Graduation results are confirmed after approval by the relevant academic authorities."
+  },
+  {
+    "instruction": "How do I receive graduation ceremony invitations?",
+    "response": "Graduation ceremony invitations are sent to eligible students through official communication channels."
+  },
+  {
+    "instruction": "What should I do if I cannot attend the graduation ceremony?",
+    "response": "Students who cannot attend should inform the academic office. Degree certificates will still be issued."
+  },
+  {
+    "instruction": "Where can I get help with post-graduation career planning?",
+    "response": "Post-graduation career planning support is available through the university career services office."
+  },
+  {
+    "instruction": "How do I update my profile photo on the student portal?",
+    "response": "Profile photo updates can be done through the student portal profile settings, subject to image guidelines."
+  },
+  {
+    "instruction": "What file format is accepted for profile photos?",
+    "response": "Accepted file formats and size limits are specified on the student portal upload page."
+  },
+  {
+    "instruction": "How do I request a timetable verification letter?",
+    "response": "Timetable verification letters can be requested from the academic office following official procedures."
+  },
+  {
+    "instruction": "Can I access academic services during semester breaks?",
+    "response": "Academic services may operate with limited hours during semester breaks. Updates are announced by the university."
+  },
+  {
+    "instruction": "How do I report an issue with classroom facilities?",
+    "response": "Classroom facility issues should be reported to the maintenance department or academic office."
+  },
+  {
+    "instruction": "Are classrooms equipped with multimedia facilities?",
+    "response": "Most classrooms are equipped with multimedia facilities. Availability may vary by location."
+  },
+  {
+    "instruction": "How do I request special seating arrangements for exams?",
+    "response": "Special seating requests must be submitted in advance to the examination office with supporting documentation."
+  },
+  {
+    "instruction": "Can I bring personal items into the examination hall?",
+    "response": "Permitted and prohibited items are listed in the examination instructions provided before exams."
+  },
+  {
+    "instruction": "What should I do if I forget my exam admission card?",
+    "response": "Students should contact the examination office immediately for guidance if they forget their admission card."
+  },
+  {
+    "instruction": "How do I check my exam venue?",
+    "response": "Exam venue details are published on the student portal and official notice boards."
+  },
+  {
+    "instruction": "Are calculators allowed during exams?",
+    "response": "Calculator usage depends on the exam rules specified by the course or examination office."
+  },
+  {
+    "instruction": "How do I submit medical documents for exam consideration?",
+    "response": "Medical documents must be submitted to the academic or examination office within the specified timeframe."
+  },
+  {
+    "instruction": "Can I appeal an exam misconduct decision?",
+    "response": "Appeals against exam misconduct decisions can be submitted according to university disciplinary procedures."
+  },
+  {
+    "instruction": "How do I check exam regulations?",
+    "response": "Exam regulations are available in the academic handbook and on the university website."
+  },
+  {
+    "instruction": "Are students allowed to record lectures?",
+    "response": "Lecture recording permissions depend on lecturer consent and university policies."
+  },
+  {
+    "instruction": "How do I report unauthorized recording of lectures?",
+    "response": "Unauthorized recording incidents should be reported to the academic department or student affairs."
+  },
+  {
+    "instruction": "Can I use my own laptop during lectures?",
+    "response": "Laptop usage during lectures is generally permitted unless restricted by the lecturer."
+  },
+  {
+    "instruction": "How do I access printing services on campus?",
+    "response": "Printing services are available at designated locations on campus. Usage guidelines are provided by IT services."
+  },
+  {
+    "instruction": "Are printing credits provided to students?",
+    "response": "Printing credit policies vary by faculty and are announced by the university."
+  },
+  {
+    "instruction": "How do I recharge my printing account?",
+    "response": "Printing account recharge instructions are available through IT services or the student portal."
+  },
+  {
+    "instruction": "How do I apply for on-campus employment?",
+    "response": "On-campus job opportunities are advertised through career services or official notice boards."
+  },
+  {
+    "instruction": "Are international students allowed to work on campus?",
+    "response": "On-campus work eligibility for international students depends on visa conditions and university policies."
+  },
+  {
+    "instruction": "How do I request permission to work off campus?",
+    "response": "Off-campus work permissions must comply with legal and university regulations. Guidance is available through student affairs."
+  },
+  {
+    "instruction": "Can I access health services on campus?",
+    "response": "Campus health services are available to students during designated hours."
+  },
+  {
+    "instruction": "How do I make an appointment at the health center?",
+    "response": "Health center appointments can be made through the designated booking system or by visiting the center."
+  },
+  {
+    "instruction": "Are emergency medical services available on campus?",
+    "response": "Emergency medical assistance is available through campus security and health services."
+  },
+  {
+    "instruction": "How do I report a safety concern on campus?",
+    "response": "Safety concerns should be reported immediately to campus security or designated authorities."
+  },
+  {
+    "instruction": "Are CCTV cameras installed on campus?",
+    "response": "CCTV surveillance is used in accordance with university safety and privacy policies."
+  },
+  {
+    "instruction": "How do I access transport services provided by the university?",
+    "response": "Transport service details, routes, and schedules are announced by the university administration."
+  },
+  {
+    "instruction": "Are shuttle services available for students?",
+    "response": "Shuttle services may be available depending on campus facilities and schedules."
+  },
+  {
+    "instruction": "How do I register for university transport services?",
+    "response": "Transport registration procedures are provided by the transport office or student affairs."
+  },
+  {
+    "instruction": "Can students bring personal vehicles to campus?",
+    "response": "Personal vehicle usage is subject to university parking policies and registration requirements."
+  },
+  {
+    "instruction": "How do I apply for a parking permit?",
+    "response": "Parking permits can be requested through the transport or administration office."
+  },
+  {
+    "instruction": "What should I do if my vehicle is damaged on campus?",
+    "response": "Vehicle damage incidents should be reported to campus security for assistance."
+  },
+  {
+    "instruction": "Are food facilities available on campus?",
+    "response": "Campus cafeterias and food outlets operate according to scheduled hours announced by the university."
+  },
+  {
+    "instruction": "Are vegetarian or special meals available?",
+    "response": "Meal options vary by cafeteria, and students may inquire directly with food service providers."
+  },
+  {
+    "instruction": "How do I provide feedback about cafeteria services?",
+    "response": "Cafeteria feedback can be submitted through student affairs or designated feedback channels."
+  },
+  {
+    "instruction": "Can students access sports facilities without membership?",
+    "response": "Access to sports facilities may require registration or membership depending on facility policies."
+  },
+  {
+    "instruction": "How do I book sports facilities?",
+    "response": "Sports facility bookings can be made through the sports office or designated booking systems."
+  },
+  {
+    "instruction": "Are fitness trainers available on campus?",
+    "response": "Availability of fitness trainers depends on sports facility arrangements and schedules."
+  },
+  {
+    "instruction": "How do I participate in inter-university competitions?",
+    "response": "Participation details are coordinated through the sports office or relevant student organizations."
+  },
+  {
+    "instruction": "Are practice sessions scheduled for sports teams?",
+    "response": "Practice session schedules are announced by team coaches or the sports department."
+  },
+  {
+    "instruction": "Can students form new clubs or societies?",
+    "response": "Formation of new clubs requires approval from student affairs and compliance with university guidelines."
+  },
+  {
+    "instruction": "How do I register a new student society?",
+    "response": "Society registration procedures are provided by the student affairs office."
+  },
+  {
+    "instruction": "Are meeting rooms available for student groups?",
+    "response": "Meeting rooms may be booked through the academic or student affairs office, subject to availability."
+  },
+  {
+    "instruction": "How do I request audio-visual equipment for events?",
+    "response": "Audio-visual equipment requests must be submitted in advance through the relevant department."
+  },
+  {
+    "instruction": "Are students allowed to invite external speakers?",
+    "response": "External speaker invitations require prior approval and must follow university guidelines."
+  },
+  {
+    "instruction": "How do I apply for event publicity support?",
+    "response": "Publicity support requests can be submitted to the media or communications office."
+  },
+  {
+    "instruction": "Can events be promoted on university social media?",
+    "response": "Social media promotion may be available with approval from the communications team."
+  },
+  {
+    "instruction": "Where can I find guidelines for responsible social media use?",
+    "response": "Social media usage guidelines are available on the university website and student handbook."
+  },
+  {
+    "instruction": "How do I check the academic advisor assigned to me?",
+    "response": "Assigned academic advisor details are available on the student portal under academic information."
+  },
+  {
+    "instruction": "Can I request a change of academic advisor?",
+    "response": "Advisor change requests must be submitted to the faculty office with valid reasons."
+  },
+  {
+    "instruction": "How do I book a meeting with my academic advisor?",
+    "response": "Meetings can be scheduled via email or during designated consultation hours."
+  },
+  {
+    "instruction": "What should I do if my advisor is unavailable?",
+    "response": "Students may contact the department office for alternative academic guidance."
+  },
+  {
+    "instruction": "How do I apply for course exemptions?",
+    "response": "Course exemption requests require submission of prior academic records to the faculty."
+  },
+  {
+    "instruction": "Are online classes recorded for later viewing?",
+    "response": "Recording availability depends on course policy and lecturer discretion."
+  },
+  {
+    "instruction": "How do I access recorded lecture videos?",
+    "response": "Recorded lectures are accessible through the learning management system if enabled."
+  },
+  {
+    "instruction": "What internet requirements are recommended for online classes?",
+    "response": "Stable broadband or mobile data connections are recommended for uninterrupted access."
+  },
+  {
+    "instruction": "How do I report technical issues during online exams?",
+    "response": "Technical issues should be reported immediately to the IT helpdesk with evidence."
+  },
+  {
+    "instruction": "Can I retake an online exam if my connection fails?",
+    "response": "Retake eligibility is assessed by the examination office based on documented issues."
+  },
+  {
+    "instruction": "How do I update my emergency contact details?",
+    "response": "Emergency contact information can be updated through the student portal profile section."
+  },
+  {
+    "instruction": "Are emergency drills conducted on campus?",
+    "response": "Emergency drills are organized periodically to ensure campus safety preparedness."
+  },
+  {
+    "instruction": "What happens if I miss a mandatory workshop?",
+    "response": "Missed mandatory sessions may require approved makeup activities."
+  },
+  {
+    "instruction": "How do I register for compulsory workshops?",
+    "response": "Workshop registration details are communicated via official university channels."
+  },
+  {
+    "instruction": "Are soft skills programs offered to students?",
+    "response": "Soft skills programs are conducted by career services and faculty departments."
+  },
+  {
+    "instruction": "How do I receive updates about seminars and guest lectures?",
+    "response": "Seminar announcements are shared via email, notice boards, and social media pages."
+  },
+  {
+    "instruction": "Can I attend seminars outside my faculty?",
+    "response": "Attendance is generally allowed unless the event is restricted."
+  },
+  {
+    "instruction": "How do I request permission to attend an external conference?",
+    "response": "Conference participation requests must be approved by the department and administration."
+  },
+  {
+    "instruction": "Are participation certificates issued for events?",
+    "response": "Certificates are issued for eligible events based on organizer policies."
+  },
+  {
+    "instruction": "How do I collect event participation certificates?",
+    "response": "Certificate collection instructions are provided after event completion."
+  },
+  {
+    "instruction": "Can I access university resources after office hours?",
+    "response": "Access depends on resource type and campus security regulations."
+  },
+  {
+    "instruction": "Are study halls open during weekends?",
+    "response": "Weekend opening hours are announced by the library or administration."
+  },
+  {
+    "instruction": "How do I reserve a study room?",
+    "response": "Study room reservations can be made through the library booking system."
+  },
+  {
+    "instruction": "What should I do if I lose my student ID card?",
+    "response": "Lost ID cards must be reported immediately and replaced through student services."
+  },
+  {
+    "instruction": "Is there a fee for replacing a student ID card?",
+    "response": "Replacement fees may apply and are communicated by the administration."
+  },
+  {
+    "instruction": "How do I activate access privileges on my ID card?",
+    "response": "Access privileges are activated automatically after registration or via student services."
+  },
+  {
+    "instruction": "Can I access labs outside scheduled hours?",
+    "response": "Lab access outside scheduled times requires special permission from the department."
+  },
+  {
+    "instruction": "How do I report damaged laboratory equipment?",
+    "response": "Equipment damage should be reported immediately to the lab supervisor."
+  },
+  {
+    "instruction": "Are safety training sessions mandatory for labs?",
+    "response": "Safety training is mandatory before accessing specialized laboratory facilities."
+  },
+  {
+    "instruction": "How do I enroll in laboratory safety training?",
+    "response": "Enrollment details are provided by the department prior to lab sessions."
+  },
+  {
+    "instruction": "Can students use personal equipment in labs?",
+    "response": "Personal equipment usage is subject to lab safety guidelines and approval."
+  },
+  {
+    "instruction": "How do I access cloud software provided by the university?",
+    "response": "Cloud software access instructions are available through IT services."
+  },
+  {
+    "instruction": "Are software licenses available for students?",
+    "response": "Licensed software availability depends on academic program requirements."
+  },
+  {
+    "instruction": "How do I request installation of required software?",
+    "response": "Software installation requests can be submitted to the IT department."
+  },
+  {
+    "instruction": "What should I do if licensed software stops working?",
+    "response": "Software issues should be reported to IT support with error details."
+  },
+  {
+    "instruction": "Can I access university Wi-Fi in all campus areas?",
+    "response": "Wi-Fi coverage is available in most academic and common areas."
+  },
+  {
+    "instruction": "How do I report weak Wi-Fi connectivity?",
+    "response": "Connectivity issues should be logged with the IT helpdesk."
+  },
+  {
+    "instruction": "Are there data usage limits on campus Wi-Fi?",
+    "response": "Usage limits may apply and are outlined in IT usage policies."
+  },
+  {
+    "instruction": "How do I comply with acceptable use policies?",
+    "response": "Acceptable use guidelines are available on the IT services webpage."
+  },
+  {
+    "instruction": "Can disciplinary actions affect my academic record?",
+    "response": "Serious disciplinary actions may be reflected in official records per policy."
+  },
+  {
+    "instruction": "How do I check the student code of conduct?",
+    "response": "The student code of conduct is published in the student handbook."
+  },
+  {
+    "instruction": "What is the procedure for filing a grievance?",
+    "response": "Grievances must be submitted following the official student grievance procedure."
+  },
+  {
+    "instruction": "Can grievances be submitted confidentially?",
+    "response": "Confidential grievance handling is supported according to policy guidelines."
+  },
+  {
+    "instruction": "How long does grievance resolution take?",
+    "response": "Resolution timelines vary depending on the nature of the complaint."
+  },
+  {
+    "instruction": "Are students informed about grievance outcomes?",
+    "response": "Students are notified of outcomes through official communication channels."
+  },
+  {
+    "instruction": "Can parents contact the university on behalf of students?",
+    "response": "Parental inquiries are handled according to privacy and consent policies."
+  },
+  {
+    "instruction": "How do I authorize a parent to access my information?",
+    "response": "Authorization forms must be submitted to student services."
+  },
+  {
+    "instruction": "Are student records kept confidential?",
+    "response": "Student records are protected under institutional privacy policies."
+  },
+  {
+    "instruction": "How long are academic records retained?",
+    "response": "Record retention periods follow regulatory and institutional guidelines."
+  },
+  {
+    "instruction": "Where can I find policies related to student data protection?",
+    "response": "Data protection policies are published on the university website."
+  },
+  {
+    "instruction": "How do I request an enrollment confirmation letter?",
+    "response": "Enrollment confirmation letters can be requested through the academic or student services office."
+  },
+  {
+    "instruction": "Can enrollment letters be issued digitally?",
+    "response": "Digital enrollment letters are issued where electronic delivery is supported."
+  },
+  {
+    "instruction": "How do I obtain a letter for bank loan purposes?",
+    "response": "Bank loan letters must be requested from the academic office with supporting details."
+  },
+  {
+    "instruction": "Are fee receipts available for past semesters?",
+    "response": "Past fee receipts can be downloaded from the student portal or requested from finance."
+  },
+  {
+    "instruction": "How do I correct an error in my fee receipt?",
+    "response": "Receipt corrections require submission of proof to the finance office."
+  },
+  {
+    "instruction": "Can I request a refund for overpaid fees?",
+    "response": "Overpayment refunds are processed after verification by the finance department."
+  },
+  {
+    "instruction": "How long does the fee refund process take?",
+    "response": "Refund timelines vary and are communicated by the finance office."
+  },
+  {
+    "instruction": "Are hostel fees refundable if I vacate early?",
+    "response": "Hostel fee refunds depend on accommodation policies and notice periods."
+  },
+  {
+    "instruction": "How do I report maintenance issues in the hostel?",
+    "response": "Hostel maintenance issues should be reported to the hostel office or warden."
+  },
+  {
+    "instruction": "Can I change my hostel room after allocation?",
+    "response": "Room change requests are considered based on availability and valid reasons."
+  },
+  {
+    "instruction": "Are quiet hours enforced in hostels?",
+    "response": "Quiet hours are enforced to ensure a conducive living environment."
+  },
+  {
+    "instruction": "How do I report rule violations in the hostel?",
+    "response": "Violations should be reported to hostel authorities following official procedures."
+  },
+  {
+    "instruction": "Can day scholars access hostel facilities?",
+    "response": "Access to hostel facilities by day scholars is restricted and policy-based."
+  },
+  {
+    "instruction": "How do I apply for hostel leave during weekends?",
+    "response": "Hostel leave requests must be submitted to the warden in advance."
+  },
+  {
+    "instruction": "Are visitors allowed in hostel premises?",
+    "response": "Visitor access is governed by hostel rules and permitted hours."
+  },
+  {
+    "instruction": "How do I access lost and found services on campus?",
+    "response": "Lost and found inquiries are handled by campus security or administration."
+  },
+  {
+    "instruction": "What should I do if I lose personal belongings on campus?",
+    "response": "Lost items should be reported immediately to the relevant office."
+  },
+  {
+    "instruction": "Can I claim found items from the administration?",
+    "response": "Found items can be claimed after identity verification."
+  },
+  {
+    "instruction": "Are campus buildings accessible for students with disabilities?",
+    "response": "Accessibility features are provided in accordance with inclusivity guidelines."
+  },
+  {
+    "instruction": "How do I request academic accommodations for disabilities?",
+    "response": "Accommodation requests must be submitted with documentation to student services."
+  },
+  {
+    "instruction": "Are assistive technologies available for students?",
+    "response": "Assistive technology support is provided where available and appropriate."
+  },
+  {
+    "instruction": "How do I contact the disability support office?",
+    "response": "Contact details are available on the university website."
+  },
+  {
+    "instruction": "Can I change my examination seating due to medical reasons?",
+    "response": "Medical-based seating changes require approval from the examination office."
+  },
+  {
+    "instruction": "How do I submit temporary medical accommodation requests?",
+    "response": "Requests must be supported by valid medical documentation."
+  },
+  {
+    "instruction": "Are makeup exams offered for approved absences?",
+    "response": "Makeup exams may be offered subject to approval and exam regulations."
+  },
+  {
+    "instruction": "How do I check eligibility for a makeup exam?",
+    "response": "Eligibility criteria are outlined in examination guidelines."
+  },
+  {
+    "instruction": "Can continuous assessments be rescheduled?",
+    "response": "Rescheduling depends on course policy and lecturer approval."
+  },
+  {
+    "instruction": "How do I inform lecturers about approved absences?",
+    "response": "Approved absences should be communicated via official channels."
+  },
+  {
+    "instruction": "Are attendance exemptions granted for medical reasons?",
+    "response": "Attendance exemptions may be granted upon verification of documents."
+  },
+  {
+    "instruction": "How do I upload medical certificates to the system?",
+    "response": "Medical documents can be uploaded through the student portal where enabled."
+  },
+  {
+    "instruction": "Can I view my academic progress report online?",
+    "response": "Academic progress reports are accessible through the student portal."
+  },
+  {
+    "instruction": "How do I interpret my GPA and credit status?",
+    "response": "GPA calculations and credit requirements are explained in the academic handbook."
+  },
+  {
+    "instruction": "Are academic warnings issued for low performance?",
+    "response": "Academic warnings are issued according to performance monitoring policies."
+  },
+  {
+    "instruction": "What support is available after receiving an academic warning?",
+    "response": "Academic counseling and study support services are available."
+  },
+  {
+    "instruction": "Can I appeal an academic warning?",
+    "response": "Appeals may be submitted following academic review procedures."
+  },
+  {
+    "instruction": "How do I request additional academic support?",
+    "response": "Support requests can be made through advisors or student services."
+  },
+  {
+    "instruction": "Are tutoring programs available on campus?",
+    "response": "Tutoring programs are offered by faculties or learning centers."
+  },
+  {
+    "instruction": "How do I enroll in tutoring sessions?",
+    "response": "Enrollment details are shared through academic departments."
+  },
+  {
+    "instruction": "Can peer mentoring help first-year students?",
+    "response": "Peer mentoring programs support first-year academic transition."
+  },
+  {
+    "instruction": "How do I join the peer mentoring program?",
+    "response": "Registration is coordinated through student affairs."
+  },
+  {
+    "instruction": "Are leadership programs available for students?",
+    "response": "Leadership development programs are offered periodically."
+  },
+  {
+    "instruction": "How do I apply for student leadership roles?",
+    "response": "Leadership role applications follow election or appointment procedures."
+  },
+  {
+    "instruction": "Can leadership roles count toward extracurricular credits?",
+    "response": "Recognition depends on academic and co-curricular policies."
+  },
+  {
+    "instruction": "How do I track my extracurricular participation?",
+    "response": "Participation records may be maintained by student affairs."
+  },
+  {
+    "instruction": "Are volunteer opportunities announced by the university?",
+    "response": "Volunteer opportunities are shared via official communication channels."
+  },
+  {
+    "instruction": "How do I register for volunteer activities?",
+    "response": "Registration instructions are provided by event organizers."
+  },
+  {
+    "instruction": "Can volunteer work be included in my transcript?",
+    "response": "Inclusion depends on institutional recognition policies."
+  },
+  {
+    "instruction": "How do I obtain proof of volunteer participation?",
+    "response": "Proof is issued by the organizing body upon request."
+  },
+  {
+    "instruction": "Are community engagement programs offered?",
+    "response": "Community engagement initiatives are coordinated by the university."
+  },
+  {
+    "instruction": "How do I stay informed about outreach programs?",
+    "response": "Outreach program updates are shared via email and the website."
+  },
+  {
+    "instruction": "How do I request a course syllabus from previous semesters?",
+    "response": "Past course syllabi can be requested from the academic department or faculty office."
+  },
+  {
+    "instruction": "Are archived lecture materials accessible to students?",
+    "response": "Access to archived materials depends on departmental policies and availability."
+  },
+  {
+    "instruction": "How do I verify my enrollment status for visa purposes?",
+    "response": "Enrollment verification for visa use can be obtained through student services."
+  },
+  {
+    "instruction": "Can enrollment verification letters include study duration details?",
+    "response": "Study duration details can be included upon request if officially recorded."
+  },
+  {
+    "instruction": "How do I update my passport details in university records?",
+    "response": "Passport detail updates require submission of valid documents to administration."
+  },
+  {
+    "instruction": "Are international student orientations conducted separately?",
+    "response": "Separate orientation sessions are organized for international students when applicable."
+  },
+  {
+    "instruction": "How do I contact the international student support office?",
+    "response": "Contact information is available on the university’s international office webpage."
+  },
+  {
+    "instruction": "Can international students extend their study period?",
+    "response": "Study period extensions require academic approval and visa compliance."
+  },
+  {
+    "instruction": "How do I apply for a leave of absence?",
+    "response": "Leave of absence applications must be submitted through the academic office."
+  },
+  {
+    "instruction": "Are leaves of absence recorded on transcripts?",
+    "response": "Approved leaves may be reflected according to academic regulations."
+  },
+  {
+    "instruction": "How do I return to studies after an approved leave?",
+    "response": "Re-enrollment procedures must be completed before resuming studies."
+  },
+  {
+    "instruction": "Can I change my specialization during the degree program?",
+    "response": "Specialization changes are subject to faculty approval and eligibility."
+  },
+  {
+    "instruction": "How do I check specialization requirements?",
+    "response": "Specialization requirements are outlined in the program handbook."
+  },
+  {
+    "instruction": "Are interdisciplinary electives available?",
+    "response": "Interdisciplinary electives are offered based on program structure."
+  },
+  {
+    "instruction": "How do I register for electives outside my faculty?",
+    "response": "Cross-faculty elective registration requires approval from relevant departments."
+  },
+  {
+    "instruction": "Can elective credits count toward graduation?",
+    "response": "Elective credits count if they meet program credit requirements."
+  },
+  {
+    "instruction": "How do I verify credit completion status?",
+    "response": "Credit completion status can be checked via the student portal."
+  },
+  {
+    "instruction": "Are summer or vacation courses offered?",
+    "response": "Vacation course offerings are announced prior to each term."
+  },
+  {
+    "instruction": "How do I enroll in vacation courses?",
+    "response": "Enrollment procedures are provided with the course announcement."
+  },
+  {
+    "instruction": "Do vacation courses have additional fees?",
+    "response": "Additional fees may apply and are communicated by the finance office."
+  },
+  {
+    "instruction": "Can I graduate early by completing extra credits?",
+    "response": "Early graduation eligibility depends on program regulations."
+  },
+  {
+    "instruction": "How do I apply for early graduation?",
+    "response": "Early graduation applications must be submitted for academic review."
+  },
+  {
+    "instruction": "Are graduation ceremonies mandatory?",
+    "response": "Ceremony attendance is optional but encouraged."
+  },
+  {
+    "instruction": "How do I register for the graduation ceremony?",
+    "response": "Ceremony registration details are shared before graduation."
+  },
+  {
+    "instruction": "Can guests attend the graduation ceremony?",
+    "response": "Guest attendance is subject to seating capacity and guidelines."
+  },
+  {
+    "instruction": "How do I request graduation attire?",
+    "response": "Graduation attire rental or purchase details are announced by administration."
+  },
+  {
+    "instruction": "Are professional photographs taken during graduation?",
+    "response": "Photography services are usually provided during ceremonies."
+  },
+  {
+    "instruction": "How do I collect my degree certificate after graduation?",
+    "response": "Degree certificates are issued according to academic office schedules."
+  },
+  {
+    "instruction": "Can degree certificates be mailed to graduates?",
+    "response": "Mailing options may be available upon request."
+  },
+  {
+    "instruction": "How do I request a certified copy of my degree certificate?",
+    "response": "Certified copies can be requested from the academic office."
+  },
+  {
+    "instruction": "Are alumni eligible to use campus library services?",
+    "response": "Alumni library access depends on membership policies."
+  },
+  {
+    "instruction": "How do alumni update contact information?",
+    "response": "Alumni contact details can be updated through the alumni office."
+  },
+  {
+    "instruction": "Are alumni networking events organized?",
+    "response": "Networking events are organized periodically by the alumni association."
+  },
+  {
+    "instruction": "How do I join the alumni association?",
+    "response": "Alumni association membership registration details are available online."
+  },
+  {
+    "instruction": "Can alumni access career support services?",
+    "response": "Career support may be extended to alumni based on policy."
+  },
+  {
+    "instruction": "How do I request recommendation letters after graduation?",
+    "response": "Recommendation requests should be directed to former academic supervisors."
+  },
+  {
+    "instruction": "Are recommendation letters issued digitally?",
+    "response": "Digital recommendations may be provided depending on faculty preference."
+  },
+  {
+    "instruction": "How much notice should I give for recommendation requests?",
+    "response": "Adequate advance notice is recommended to allow preparation time."
+  },
+  {
+    "instruction": "Can I authorize third parties to verify my academic records?",
+    "response": "Third-party verification requires written authorization."
+  },
+  {
+    "instruction": "How do employers verify academic credentials?",
+    "response": "Verification requests are processed by the academic office."
+  },
+  {
+    "instruction": "Are verification services fee-based?",
+    "response": "Verification fees may apply as per university policy."
+  },
+  {
+    "instruction": "How do I check the status of a verification request?",
+    "response": "Status updates are provided through the academic office."
+  },
+  {
+    "instruction": "Can I request English proficiency confirmation from the university?",
+    "response": "English proficiency confirmations are issued based on academic records."
+  },
+  {
+    "instruction": "How do I obtain a medium-of-instruction letter?",
+    "response": "Medium-of-instruction letters can be requested from student services."
+  },
+  {
+    "instruction": "Are digital signatures used on official letters?",
+    "response": "Digital signatures are used where supported by official systems."
+  },
+  {
+    "instruction": "How do I validate the authenticity of official documents?",
+    "response": "Document authenticity can be verified through designated verification channels."
+  },
+  {
+    "instruction": "Can I request document verification urgently?",
+    "response": "Urgent requests may be processed subject to availability."
+  },
+  {
+    "instruction": "How do I submit feedback about administrative services?",
+    "response": "Feedback can be submitted through official feedback forms."
+  },
+  {
+    "instruction": "Are student satisfaction surveys conducted regularly?",
+    "response": "Surveys are conducted periodically to improve services."
+  },
+  {
+    "instruction": "How does the university use student feedback?",
+    "response": "Feedback is analyzed to enhance academic and administrative services."
+  },
+  {
+    "instruction": "How do I access notices issued by my faculty?",
+    "response": "Faculty notices are published on official notice boards and faculty web pages."
+  },
+  {
+    "instruction": "Can I subscribe to faculty announcement emails?",
+    "response": "Subscription options are available through the student communication settings."
+  },
+  {
+    "instruction": "How do I receive urgent academic notifications?",
+    "response": "Urgent notifications are sent via email and official messaging platforms."
+  },
+  {
+    "instruction": "Are SMS alerts used for important announcements?",
+    "response": "SMS alerts may be used for time-sensitive information when enabled."
+  },
+  {
+    "instruction": "How do I update my mobile number for alerts?",
+    "response": "Mobile number updates can be made through the student portal profile section."
+  },
+  {
+    "instruction": "Can I opt out of non-essential notifications?",
+    "response": "Notification preferences can be managed within communication settings."
+  },
+  {
+    "instruction": "How do I request timetable adjustments due to clashes?",
+    "response": "Timetable clash requests must be submitted to the academic office."
+  },
+  {
+    "instruction": "Are timetable changes communicated in advance?",
+    "response": "Changes are communicated as early as possible via official channels."
+  },
+  {
+    "instruction": "How do I report errors in my academic records?",
+    "response": "Record discrepancies should be reported to the academic office with evidence."
+  },
+  {
+    "instruction": "Can academic record corrections affect GPA calculations?",
+    "response": "Corrections may impact GPA once officially approved."
+  },
+  {
+    "instruction": "How do I request rechecking of continuous assessments?",
+    "response": "Rechecking requests must follow the assessment review procedure."
+  },
+  {
+    "instruction": "Are there deadlines for submitting rechecking requests?",
+    "response": "Deadlines are specified in academic regulations and announcements."
+  },
+  {
+    "instruction": "How do I track the status of rechecking requests?",
+    "response": "Status updates are communicated by the academic department."
+  },
+  {
+    "instruction": "Can I appeal final examination results?",
+    "response": "Final result appeals are handled through formal appeal processes."
+  },
+  {
+    "instruction": "How long does the appeal review process take?",
+    "response": "Review timelines vary based on case complexity."
+  },
+  {
+    "instruction": "Are appeal outcomes final?",
+    "response": "Appeal decisions are final once communicated."
+  },
+  {
+    "instruction": "Can I access archived academic regulations?",
+    "response": "Archived regulations are available on the university website."
+  },
+  {
+    "instruction": "How do I stay updated on policy changes?",
+    "response": "Policy updates are shared through official announcements."
+  },
+  {
+    "instruction": "Are students notified before policy changes take effect?",
+    "response": "Advance notice is provided whenever possible."
+  },
+  {
+    "instruction": "How do I request permission for academic research involving surveys?",
+    "response": "Research permission must be obtained through ethical review channels."
+  },
+  {
+    "instruction": "Are ethics approvals required for student research?",
+    "response": "Ethics approval is mandatory for applicable research activities."
+  },
+  {
+    "instruction": "How do I submit an ethics approval application?",
+    "response": "Applications are submitted according to research governance guidelines."
+  },
+  {
+    "instruction": "Can undergraduate students conduct independent research?",
+    "response": "Independent research is permitted under academic supervision."
+  },
+  {
+    "instruction": "How do I find a research supervisor?",
+    "response": "Supervisors can be identified through faculty directories."
+  },
+  {
+    "instruction": "Are research grants available for students?",
+    "response": "Student research funding opportunities are announced periodically."
+  },
+  {
+    "instruction": "How do I apply for student research funding?",
+    "response": "Funding applications must follow published guidelines."
+  },
+  {
+    "instruction": "Can research findings be published externally?",
+    "response": "External publication requires supervisor approval."
+  },
+  {
+    "instruction": "How do I register intellectual property from student research?",
+    "response": "Intellectual property registration follows university IP policies."
+  },
+  {
+    "instruction": "Are innovation and startup programs available?",
+    "response": "Innovation programs are coordinated through entrepreneurship centers."
+  },
+  {
+    "instruction": "How do I join startup incubation initiatives?",
+    "response": "Incubation program applications are announced by the innovation office."
+  },
+  {
+    "instruction": "Can students pitch business ideas to the university?",
+    "response": "Pitching opportunities are provided during innovation events."
+  },
+  {
+    "instruction": "Are mentorship programs available for startups?",
+    "response": "Mentorship support is offered through innovation programs."
+  },
+  {
+    "instruction": "How do I protect confidential business ideas?",
+    "response": "Confidentiality guidelines should be followed during submissions."
+  },
+  {
+    "instruction": "Can student startups use university branding?",
+    "response": "Branding usage requires formal approval."
+  },
+  {
+    "instruction": "How do I access entrepreneurship training workshops?",
+    "response": "Workshop schedules are shared via innovation office announcements."
+  },
+  {
+    "instruction": "Are hackathons organized by the university?",
+    "response": "Hackathons are organized periodically to encourage innovation."
+  },
+  {
+    "instruction": "How do I register for hackathon events?",
+    "response": "Registration details are provided with event announcements."
+  },
+  {
+    "instruction": "Can participation in hackathons earn academic recognition?",
+    "response": "Recognition depends on program and faculty policies."
+  },
+  {
+    "instruction": "How do I obtain proof of participation in innovation events?",
+    "response": "Participation proof is issued by event organizers."
+  },
+  {
+    "instruction": "Are sustainability initiatives promoted on campus?",
+    "response": "Sustainability initiatives are supported through university programs."
+  },
+  {
+    "instruction": "How do I participate in environmental campaigns?",
+    "response": "Campaign participation details are shared through student organizations."
+  },
+  {
+    "instruction": "Can students propose sustainability projects?",
+    "response": "Project proposals are reviewed by relevant committees."
+  },
+  {
+    "instruction": "How do I submit sustainability project ideas?",
+    "response": "Submissions follow guidelines provided by sustainability offices."
+  },
+  {
+    "instruction": "Are green certifications available for student projects?",
+    "response": "Certification availability depends on program criteria."
+  },
+  {
+    "instruction": "How do I track my involvement in sustainability programs?",
+    "response": "Participation records may be maintained by coordinating units."
+  },
+  {
+    "instruction": "Can sustainability activities contribute to extracurricular credits?",
+    "response": "Contribution recognition depends on institutional policies."
+  },
+  {
+    "instruction": "How do I stay informed about sustainability workshops?",
+    "response": "Workshop announcements are shared via official channels."
+  },
+  {
+    "instruction": "Are awards given for outstanding student initiatives?",
+    "response": "Awards are presented to recognize exceptional contributions."
+  },
+  {
+    "instruction": "How do I apply for student achievement awards?",
+    "response": "Award application procedures are announced annually."
+  },
+  {
+    "instruction": "Where can I find a complete list of student services?",
+    "response": "A comprehensive list of student services is available on the university website."
+  }
+]
