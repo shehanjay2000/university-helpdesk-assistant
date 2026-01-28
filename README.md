@@ -4,7 +4,7 @@
 This project demonstrates the fine-tuning of a **small instruction-following language model** using **Parameter-Efficient Fine-Tuning (LoRA / PEFT)** to build a **University Helpdesk Assistant**.  
 The assistant is designed to answer common student and staff queries related to admissions, academics, IT support, and administrative services in a concise, safe, and domain-specific manner.
 
-The project was completed as part of the **OXZON AI – AI/ML Internship Assessment** and focuses on **clarity of design, reasoning, and correctness**, rather than model size or computational complexity.
+
 
 ---
 
